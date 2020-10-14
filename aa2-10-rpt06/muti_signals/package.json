@@ -1,0 +1,21 @@
+{
+  "name": "muti_signals",
+  "version": "1.0.0",
+  "description": "muti-signals-node project",
+  "main": "muti_signals_node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "muti",
+    "signals",
+    "node"
+  ],
+  "author": "aa10",
+  "license": "MIT",
+  "dependencies": {
+    "port": "^0.8.1",
+    "serial": "0.0.9",
+    "socket.io": "^2.3.0"
+  }
+}
